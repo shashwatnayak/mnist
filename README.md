@@ -1,4 +1,2 @@
 # mnist
-1. Python/Numpy Tutorial
-2. Ipython Tutorial
-3. Cloud Tutorial
+Use python 2.7 to run the code.
